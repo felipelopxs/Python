@@ -1,0 +1,1 @@
+Sucesso: SQL: DELETE FROM GedDocumento.Imagem WHERE Id = '00D76AC7-4394-4426-AE9F-********'
